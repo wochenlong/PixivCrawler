@@ -79,7 +79,7 @@ graph LR;
 ### 1. 安装Python及其依赖库
 
 - `Python >= 3.9`
-- `pip install -r requirements.txtr `
+- `pip install -r requirements.txt `
 
 ### 2. 修改配置文件
 
